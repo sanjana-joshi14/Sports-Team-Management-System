@@ -7,7 +7,7 @@
 ---
 
 **Description - https://www.youtube.com/watch?v=qWe93f25oP4**
-
+<img src="https://www.youtube.com/watch?v=qWe93f25oP4">
 ---
 
 **We created a GUI to manage status of players in a team.**
