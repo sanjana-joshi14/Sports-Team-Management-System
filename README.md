@@ -6,9 +6,7 @@
 
 ---
 
-Description - https://www.youtube.com/watch?v=qWe93f25oP4
-
-http://img.youtube.com/vi/watch?v=qWe93f25oP4/hqdefault.jpg
+**Description** - https://www.youtube.com/watch?v=qWe93f25oP4
 
 ---
 
