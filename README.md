@@ -6,8 +6,10 @@
 
 ---
 
-**Description - https://www.youtube.com/watch?v=qWe93f25oP4**
-<img src="http://img.youtube.com/vi/watch?v=qWe93f25oP4/hqdefault.jpg">
+Description - https://www.youtube.com/watch?v=qWe93f25oP4
+
+http://img.youtube.com/vi/watch?v=qWe93f25oP4/hqdefault.jpg
+
 ---
 
 **We created a GUI to manage status of players in a team.**
